@@ -4,6 +4,7 @@
     <head>
         <title>Product List</title>
     </head>
+
     <body>
         <h2>Product List</h2>
         <a href="<c:url value="/shop?action=viewCart"/>">View Cart</a><br/><br/>
@@ -19,5 +20,6 @@
     </a><br/><%
         }
     %>
+
     </body>
 </html>
